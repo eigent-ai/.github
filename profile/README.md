@@ -4,34 +4,34 @@
 
 <picture>
   <source  srcset="">
-  <img height="90" src="">
+  <img height="90" src="https://eigent-ai.github.io/.github/assets/logo.png">
 </picture>
 
-Empowering your AI dreams with LobeHub
+The World First Multi-Agent Workforce
 
 [![][discord-shield]][discord-link]
 [![][github-star]][github-link]
 [![][social-x-shield]][social-x-link]<br>
 [![][sponsor-shield]][sponsor-link]
 
-![]()
+![](https://eigent-ai.github.io/.github/assets/seperator.png)
 
 ### Welcome to Eigent AI
 
 </div>
 
 
-[![public-beta]()]
+![public-beta](https://eigent-ai.github.io/.github/assets/banner.png)
 
 > \[!IMPORTANT]
 > Eigent is currently in `Public Beta`. to start a [Free Trial](https://eigent.ai) with **3,000** Credits.
 
 ### ⭐️ Our Projects
 
-| [**Eigent**][eigent-website]<br/>An open-source AI Workforce<br/><br/>[![][eigent-shield]][eigent-github] | [![][eigent-cover]][eigent-github]   |
+| [**Eigent**][eigent-website]<br/>An open-source AI Workforce<br/><br/>[Download Here][eigent-website] | [![][eigent-cover]][eigent-github]   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**Matrix**][matrix-website]<br/>Matrix is a social media simulation platform built with OASIS that blends real-time trending posts with precise user agent behavior simulation.<br/><br/>[![][matrix-shield]][matrix-website]                                                                           | [![][matrix-cover]][matrix-website] |
-| [**Eigent Bot**][eigentbot-website]<br/>The easiest way to build a secure & efficient AI knowledge base in just 5 seconds—perfect for technical QA, and more!<br/><br/>[![][eigentbot-shield]][eigentbot-website]                 | [![][eigentbot-cover]][eigentbot-website] |
+| [**Matrix**][matrix-website]<br/>Matrix is a social media simulation platform built with OASIS that blends real-time trending posts with precise user agent behavior simulation.<br/><br/>[**Try it Here**][matrix-website]                                                                           | [![][matrix-cover]][matrix-website] |
+| [**Eigent Bot**][eigentbot-website]<br/>The easiest way to build a secure & efficient AI knowledge base in just 5 seconds—perfect for technical QA, and more!<br/><br/>[**Try it Here**][eigentbot-website]                 | [![][eigentbot-cover]][eigentbot-website] |
 
 
 ### 🤝 Contributing
@@ -76,3 +76,10 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 
 [sponsor-link]: https://opencollective.com/lobehub "Become ♥️ Eigent Sponsor"
 [sponsor-shield]: https://img.shields.io/badge/sponsor-♥️-brightgreen?style=for-the-badge
+
+[eigent-cover]:https://eigent-ai.github.io/.github/assets/eigent.png
+[eigentbot-cover]:https://eigent-ai.github.io/.github/assets/eigentbot.png
+[matrix-cover]:https://eigent-ai.github.io/.github/assets/matrix.png
+[eigent-website]:www.eigent.ai
+[eigentbot-website]:www.bot.eigent.ai
+[matrix-website]:www.matrix.eigent.ai
