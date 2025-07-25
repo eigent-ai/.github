@@ -3,8 +3,8 @@
 <div align="center">
 
 <picture>
-  <source  srcset="">
-  <img height="90" src="https://eigent-ai.github.io/.github/assets/logo.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://eigent-ai.github.io/.github/assets/logo-dark.png>
+  <img height="90" src="https://eigent-ai.github.io/.github/assets/logo-light.png">
 </picture>
 
 ### The World First Multi-Agent Workforce
@@ -27,10 +27,10 @@
 
 ### ⭐️ Our Projects
 
-| [**Eigent**][eigent-website]<br/>The World's First Multi-agent Workforce built with CAMEL to Unlock Your Exceptional Productivity. We are dedicated to advancing multi-agent infrastructure and AI development while democratizing AI technology for all.<br/><br/>[Download Here][eigent-website] | [![][eigent-cover]][eigent-github]   |
+| [**Eigent**][eigent-website]<br/><br/>The World's First Multi-agent Workforce built with CAMEL to Unlock Your Exceptional Productivity. We are dedicated to advancing multi-agent infrastructure and AI development while democratizing AI technology for all.<br/><br/>[Download Here][eigent-website] | [![][eigent-cover]][eigent-github]   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**Matrix**][matrix-website]<br/>A social media simulation platform built with OASIS that blends real-time trending posts with precise user agent behavior simulation.<br/><br/>[**Try it Here**][matrix-website]                                                                           | [![][matrix-cover]][matrix-website] |
-| [**Eigent Bot**][eigentbot-website]<br/>The easiest way to build a secure & efficient AI knowledge base in just 5 seconds—perfect for technical QA, and more!<br/><br/>[**Try it Here**][eigentbot-website]                 | [![][eigentbot-cover]][eigentbot-website] |
+| [**Matrix**][matrix-website]<br/><br/>**A social media simulation platform built with OASIS that blends real-time trending posts with precise user agent behavior simulation.**<br/><br/>[**Try it Now**][matrix-website]                                                                           | [![][matrix-cover]][matrix-website] |
+| [**Eigent Bot**][eigentbot-website]<br/><br/>**The easiest way to build a secure & efficient AI knowledge base in just 5 seconds—perfect for technical QA, and more!**<br/><br/>[**Try it Now**][eigentbot-website]  | [![][eigentbot-cover]][eigentbot-website] |
 
 
 ### 🤝 Contributing
@@ -50,7 +50,7 @@ Every contribution matters, and your one-time donation shines brightly in our ga
 >
 > Help us make Eigent better. Welcome to provide product design feedback, user experience discussions directly to us.
 >
-> **Principal Maintainers:** [@Wendong-Fan](https://github.com/Wendong-Fan) [@Weijie-Bai](https://github.com/Pakchoioioi) [@Douglas-Lai](https://github.com/Douglasymlai)
+> **Principal Maintainers:** [@Wendong-Fan](https://github.com/Wendong-Fan) [@Weijie-Bai](https://github.com/Pakchoioioi) [@Douglas-Lai]()
 
 <!-- LINK GROUP -->
 
