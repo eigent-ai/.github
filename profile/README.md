@@ -7,16 +7,15 @@
   <img height="90" src="https://eigent-ai.github.io/.github/assets/logo.png">
 </picture>
 
-The World First Multi-Agent Workforce
+### The World First Multi-Agent Workforce
 
 [![][discord-shield]][discord-link]
-[![][github-star]][github-link]
-[![][social-x-shield]][social-x-link]<br>
+[![][github-star]][eigent-github]
+[![][social-x-shield]][social-x-link]
 [![][sponsor-shield]][sponsor-link]
 
 ![](https://eigent-ai.github.io/.github/assets/seperator.png)
 
-### Welcome to Eigent AI
 
 </div>
 
@@ -24,31 +23,26 @@ The World First Multi-Agent Workforce
 ![public-beta](https://eigent-ai.github.io/.github/assets/banner.png)
 
 > \[!IMPORTANT]
-> Eigent is currently in `Public Beta`. to start a [Free Trial](https://eigent.ai) with **3,000** Credits.
+> Eigent is currently in `Public Beta`. to start a [Free Trial](https://eigent.ai) with **500** Credits & **200** daily refresh Credits.
 
 ### ⭐️ Our Projects
 
-| [**Eigent**][eigent-website]<br/>An open-source AI Workforce<br/><br/>[Download Here][eigent-website] | [![][eigent-cover]][eigent-github]   |
+| [**Eigent**][eigent-website]<br/>The World's First Multi-agent Workforce built with CAMEL to Unlock Your Exceptional Productivity. We are dedicated to advancing multi-agent infrastructure and AI development while democratizing AI technology for all.<br/><br/>[Download Here][eigent-website] | [![][eigent-cover]][eigent-github]   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**Matrix**][matrix-website]<br/>Matrix is a social media simulation platform built with OASIS that blends real-time trending posts with precise user agent behavior simulation.<br/><br/>[**Try it Here**][matrix-website]                                                                           | [![][matrix-cover]][matrix-website] |
+| [**Matrix**][matrix-website]<br/>A social media simulation platform built with OASIS that blends real-time trending posts with precise user agent behavior simulation.<br/><br/>[**Try it Here**][matrix-website]                                                                           | [![][matrix-cover]][matrix-website] |
 | [**Eigent Bot**][eigentbot-website]<br/>The easiest way to build a secure & efficient AI knowledge base in just 5 seconds—perfect for technical QA, and more!<br/><br/>[**Try it Here**][eigentbot-website]                 | [![][eigentbot-cover]][eigentbot-website] |
 
 
 ### 🤝 Contributing
 
-We foster trust and welcome all forms of open-source collaboration and creative contributions to jointly advance the innovation of personalized AI tools, feel free to check out our GitHub Issues and Projects to get stuck in to show us what you’re made of 🤝❤️
+We believe in building trust and embracing all forms of open-source collaboration. Your creative contributions help drive the innovation of personalized AI tools. Explore our GitHub Issues and Projects to dive in and show us what you’ve got 🤝❤️
 
+Contribution Guideline
 
 ### ❤️ Sponsor
 
-Every bit counts and your one-time donation sparkles in our galaxy of support! You're a shooting star, making a swift and bright impact on our journey. Thank you for believing in us – your generosity guides us toward our mission, one brilliant flash at a time.
+Every contribution matters, and your one-time donation shines brightly in our galaxy of support. Like a shooting star, your generosity leaves a vivid mark on our journey. Thank you for believing in us—your support lights the way, one brilliant flash at a time.
 
-<a href="" target="_blank">
-  <picture>
-    <source media srcset>
-    <img src>
-  </picture>
-</a>
 
 ---
 
@@ -56,26 +50,26 @@ Every bit counts and your one-time donation sparkles in our galaxy of support! Y
 >
 > Help us make Eigent better. Welcome to provide product design feedback, user experience discussions directly to us.
 >
-> **Principal Maintainers:** [@Wendong-Fan](https://github.com/Wendong-Fan) [@Wendong-Fan](https://github.com/Wendong-Fan)
+> **Principal Maintainers:** [@Wendong-Fan](https://github.com/Wendong-Fan) [@Weijie-Bai](https://github.com/Pakchoioioi) [@Douglas-Lai](https://github.com/Douglasymlai)
 
 <!-- LINK GROUP -->
 
 [discord-link]: https://discord.camel-ai.org
-[discord-shield]: https://img.shields.io/badge/discord-join-5865F2?logo=discord&logoColor=white&style=for-the-badge
+[discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=gray&logo=discord&logoColor=white&style=plastic
 
 
-[github-link]: https://github.com/eigent-ai
-[github-star]: https://img.shields.io/github/stars/eigent-ai/eigent-desktop?style=for-the-badge
+[eigent-github]: https://github.com/eigent-ai/Eigent-desktop
+[github-star]: https://img.shields.io/github/stars/eigent-ai?color=F5F4F0&labelColor=gray&style=plastic&logo=github
 
 
 [eigent-github]: https://github.com/eigent-ai/eigent-desktop
 
 
 [social-x-link]: https://x.com/Eigent-AI
-[social-x-shield]: https://img.shields.io/badge/X-Follow-1DA1F2?logo=x&logoColor=white&style=for-the-badge
+[social-x-shield]: https://img.shields.io/badge/-%40Eigent_AI-white?labelColor=gray&logo=x&logoColor=white&style=plastic
 
-[sponsor-link]: https://opencollective.com/lobehub "Become ♥️ Eigent Sponsor"
-[sponsor-shield]: https://img.shields.io/badge/sponsor-♥️-brightgreen?style=for-the-badge
+[sponsor-link]: https://github.com/sponsors/eigent-ai
+[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20Eigent-1d1d1d?logo=github&logoColor=white&style=plastic
 
 [eigent-cover]:https://eigent-ai.github.io/.github/assets/eigent.png
 [eigentbot-cover]:https://eigent-ai.github.io/.github/assets/eigentbot.png
