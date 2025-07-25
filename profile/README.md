@@ -27,10 +27,10 @@
 
 ### ⭐️ Our Projects
 
-| [**Eigent**][eigent-website]<br/><br/>The World's First Multi-agent Workforce built with CAMEL to Unlock Your Exceptional Productivity. We are dedicated to advancing multi-agent infrastructure and AI development while democratizing AI technology for all.<br/><br/>[Download Here][eigent-website] | [![][eigent-cover]][eigent-github]   |
+| **Eigent**<br/><br/>The World's First Multi-agent Workforce built with CAMEL to Unlock Your Exceptional Productivity. We are dedicated to advancing multi-agent infrastructure and AI development while democratizing AI technology for all.<br/><br/>[Download Here][eigent-website] | [![][eigent-cover]][eigent-website]   |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------- |
-| [**Matrix**][matrix-website]<br/><br/>**A social media simulation platform built with OASIS that blends real-time trending posts with precise user agent behavior simulation.**<br/><br/>[**Try it Now**][matrix-website]                                                                           | [![][matrix-cover]][matrix-website] |
-| [**Eigent Bot**][eigentbot-website]<br/><br/>**The easiest way to build a secure & efficient AI knowledge base in just 5 seconds—perfect for technical QA, and more!**<br/><br/>[**Try it Now**][eigentbot-website]  | [![][eigentbot-cover]][eigentbot-website] |
+| **Matrix**<br/><br/>**A social media simulation platform built with OASIS that blends real-time trending posts with precise user agent behavior simulation.**<br/><br/>[**Try it Now**][matrix-website]                                                                           | [![][matrix-cover]][matrix-website] |
+| **Eigent Bot**<br/><br/>**The easiest way to build a secure & efficient AI knowledge base in just 5 seconds—perfect for technical QA, and more!**<br/><br/>[**Try it Now**][eigentbot-website]  | [![][eigentbot-cover]][eigentbot-website] |
 
 
 ### 🤝 Contributing
@@ -74,6 +74,6 @@ Every contribution matters, and your one-time donation shines brightly in our ga
 [eigent-cover]:https://eigent-ai.github.io/.github/assets/eigent.png
 [eigentbot-cover]:https://eigent-ai.github.io/.github/assets/eigentbot.png
 [matrix-cover]:https://eigent-ai.github.io/.github/assets/matrix.png
-[eigent-website]:www.eigent.ai
-[eigentbot-website]:www.bot.eigent.ai
-[matrix-website]:www.matrix.eigent.ai
+[eigent-website]:https://www.eigent.ai
+[eigentbot-website]:https://bot.eigent.ai/
+[matrix-website]:https://matrix.eigent.ai
