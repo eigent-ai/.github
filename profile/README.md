@@ -2,10 +2,8 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://eigent-ai.github.io/.github/assets/logo-dark.png>
-  <img height="90" src="https://eigent-ai.github.io/.github/assets/logo-light.png">
-</picture>
+
+<img src="https://eigent-ai.github.io/.github/assets/logo.png">
 
 ### The World First Multi-Agent Workforce
 
@@ -14,13 +12,12 @@
 [![][social-x-shield]][social-x-link]
 [![][sponsor-shield]][sponsor-link]
 
-![](https://eigent-ai.github.io/.github/assets/seperator.png)
-
-
 </div>
 
 
 ![public-beta](https://eigent-ai.github.io/.github/assets/banner.png)
+
+![](https://eigent-ai.github.io/.github/assets/seperator.png)
 
 > \[!IMPORTANT]
 > Eigent is currently in `Public Beta`. to start a [Free Trial](https://eigent.ai) with **500** Credits & **200** daily refresh Credits.
