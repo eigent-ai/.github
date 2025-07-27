@@ -2,10 +2,7 @@
 
 <div align="center">
 
-
-<img src="https://eigent-ai.github.io/.github/assets/logo.png">
-
-### The World First Multi-Agent Workforce
+# The World First Multi-Agent Workforce
 
 [![][discord-shield]][discord-link]
 [![][github-star]][eigent-github]
