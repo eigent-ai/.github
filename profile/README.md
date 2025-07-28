@@ -4,9 +4,9 @@
 
 # The World's First Multi-Agent Workforce
 
-[![][discord-image]][discord-url]
 [![][github-star]][eigent-github]
 [![][social-x-shield]][social-x-link]
+[![][discord-image]][discord-url]<br>
 [![Reddit][reddit-image]][reddit-url]
 [![Wechat][wechat-image]][wechat-url]
 [![][sponsor-shield]][sponsor-link]
