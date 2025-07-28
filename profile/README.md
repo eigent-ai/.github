@@ -27,11 +27,9 @@
 Eigent is the world's first multi-agent workforce built with [CAMEL framwork](camel-link) to unlock your exceptional productivity. We are dedicated to advancing multi-agent infrastructures and AI Agent research and development while democratizing AGI for all.
 
 
-### [🤝 Contributing][github-issue-link]
+### [🤝 Contributing][contribution-link]
 
-We believe in building trust and embracing all forms of open-source collaborations. Your creative contributions help drive the innovation of `Eigent`. Explore our GitHub issues and projects to dive in and show us what you’ve got 🤝❤️
-
-[Contribution Guideline][contribution-link]
+We believe in building trust and embracing all forms of open-source collaborations. Your creative contributions help drive the innovation of `Eigent`. Explore our GitHub issues and projects to dive in and show us what you’ve got 🤝❤️ [Contribution Guideline][contribution-link]
 
 ### [❤️ Sponsor][sponsor-link]
 
@@ -71,7 +69,7 @@ For more information please contact info@eigent.ai
 [social-x-shield]: https://img.shields.io/badge/-%40Eigent_AI-white?labelColor=gray&logo=x&logoColor=white&style=plastic
 
 [sponsor-link]: https://github.com/sponsors/camel-ai
-[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20Eigent-1d1d1d?logo=github&logoColor=white&style=plastic
+[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20CAMEL--AI-1d1d1d?logo=github&logoColor=white&style=plastic
 
 [github-issue-link]: https://github.com/eigent-ai/eigent/issues
 
