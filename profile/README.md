@@ -37,14 +37,20 @@ Eigent is built on top of [CAMEL-AI.org][camel-ai-org-github]'s research and inf
 [Sponsor Us][sponsor-link]
 
 
-## 🌐 Community & contact
+## Community & Contact
+For more information please contact info@eigent.ai
 
-- GitHub Discussion | [Explreo More →](https://github.com/eigent-ai/Eigent-desktop/discussions)
-- GitHub Issues | [Contribute →][github-issue-link]
-- X (Twitter) | [Follow Us →][social-x-link]
-- Discord | [Seek Support →][discord-link]
-- Wechat <br/>
-![Wechat][image-wechat]
+- **GitHub Issues:** Report bugs, request features, and track development. [Submit an issue][github-issue-link]
+
+- **Discord:** Get real-time support, chat with the community, and stay updated. [Join us](https://discord.camel-ai.org/)
+
+- **X (Twitter):** Follow for updates, AI insights, and key announcements. [Follow us][social-x-link]
+
+- **WeChat Community:** Scan the QR code below to join our WeChat community.
+
+  <div align="center">
+    <img src="assets/wechat.jpg" alt="WeChat QR Code" width="200">
+  </div>
 
 
 <!-- LINK GROUP -->
