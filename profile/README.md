@@ -7,6 +7,7 @@
 [![][discord-shield]][discord-link]
 [![][github-star]][eigent-github]
 [![][social-x-shield]][social-x-link]
+
 [![][sponsor-shield]][sponsor-link]
 
 </div>
@@ -46,7 +47,6 @@ For more information please contact info@eigent.ai
 - **X (Twitter):** Follow for updates, AI insights, and key announcements. [Follow us][social-x-link]
 
 - **WeChat Community:** Scan the QR code below to join our WeChat community.
-
 
 ![wechat](https://eigent-ai.github.io/.github/assets/wechat.jpg)
 
