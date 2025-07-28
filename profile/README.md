@@ -48,7 +48,7 @@ For more information please contact info@eigent.ai
 - **WeChat Community:** Scan the QR code below to join our WeChat community.
 
   <div align="center">
-    <img src="assets/wechat.jpg" alt="WeChat QR Code" width="200">
+    ![WeChat QR Code][wechat-cover]
   </div>
 
 
@@ -69,7 +69,7 @@ For more information please contact info@eigent.ai
 [social-x-shield]: https://img.shields.io/badge/-%40Eigent_AI-white?labelColor=gray&logo=x&logoColor=white&style=plastic
 
 [sponsor-link]: https://github.com/sponsors/camel-ai
-[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20CAMEL--AI-1d1d1d?logo=github&logoColor=white&style=plastic
+[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20CAMEL-AI-1d1d1d?logo=github&logoColor=white&style=plastic
 
 [github-issue-link]: https://github.com/eigent-ai/eigent/issues
 
@@ -79,3 +79,4 @@ For more information please contact info@eigent.ai
 [eigent-website]:https://www.eigent.ai
 [eigentbot-website]:https://bot.eigent.ai/
 [matrix-website]:https://matrix.eigent.ai
+[wechat-cover]:https://eigent-ai.github.io/.github/assets/wechat.jpg
