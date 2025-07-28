@@ -17,16 +17,19 @@
 ![](https://eigent-ai.github.io/.github/assets/seperator.png)
 
 > \[!IMPORTANT]
-> Eigent is currently in `Public Beta` to start a [Free Trial](https://www.eigent.ai) with **1000** credits & **200** daily refresh Credits.
+> Eigent is currently in `Public Beta`. Download to start a [Free Trial](https://www.eigent.ai) with **1000** credits & **200** daily refresh credits.
+
+
+
 
 ### ⭐️ Eigent
 
-Eigent The world's first multi-agent workforce built with [CAMEL framwork](camel-link) to unlock your exceptional productivity. We are dedicated to advancing multi-agent infrastructure and AI development while democratizing AI technology for all.
+Eigent is the world's first multi-agent workforce built with [CAMEL framwork](camel-link) to unlock your exceptional productivity. We are dedicated to advancing multi-agent infrastructures and AI Agent research and development while democratizing AGI for all.
 
 
 ### 🤝 Contributing
 
-We believe in building trust and embracing all forms of open-source collaboration. Your creative contributions help drive the innovation of `Eigent`. Explore our GitHub Issues and Projects to dive in and show us what you’ve got 🤝❤️
+We believe in building trust and embracing all forms of open-source collaborations. Your creative contributions help drive the innovation of `Eigent`. Explore our GitHub issues and projects to dive in and show us what you’ve got 🤝❤️
 
 [Contribution Guideline][contribution-link]
 
@@ -37,7 +40,7 @@ Eigent is built on top of [CAMEL-AI.org][camel-ai-org-github]'s research and inf
 [Sponsor Us][sponsor-link]
 
 
-## Community & Contact
+### Community & Contact
 For more information please contact info@eigent.ai
 
 - **GitHub Issues:** Report bugs, request features, and track development. [Submit an issue][github-issue-link]
