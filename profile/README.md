@@ -40,7 +40,7 @@ Eigent is built on top of [CAMEL-AI.org][camel-ai-org-github]'s research and inf
 [Sponsor Us][sponsor-link]
 
 
-### Community & Contact
+### 🌐 Community & Contact
 For more information please contact info@eigent.ai
 
 - **GitHub Issues:** Report bugs, request features, and track development. [Submit an issue][github-issue-link]
