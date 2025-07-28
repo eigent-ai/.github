@@ -4,10 +4,11 @@
 
 # The World's First Multi-Agent Workforce
 
-[![][discord-shield]][discord-link]
+[![][discord-image]][discord-url]
 [![][github-star]][eigent-github]
 [![][social-x-shield]][social-x-link]
-
+[![Reddit][reddit-image]][reddit-url]
+[![Wechat][wechat-image]][wechat-url]
 [![][sponsor-shield]][sponsor-link]
 
 </div>
@@ -54,9 +55,8 @@ For more information please contact info@eigent.ai
 
 <!-- LINK GROUP -->
 
-[discord-link]: https://discord.camel-ai.org
-[discord-shield]: https://img.shields.io/discord/1127171173982154893?color=5865F2&label=discord&labelColor=gray&logo=discord&logoColor=white&style=plastic
-
+[discord-url]: https://discord.camel-ai.org/
+[discord-image]: https://img.shields.io/discord/1082486657678311454?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb
 
 [eigent-github]: https://github.com/eigent-ai/eigent
 [github-star]: https://img.shields.io/github/stars/eigent-ai?color=F5F4F0&labelColor=gray&style=plastic&logo=github
@@ -68,8 +68,14 @@ For more information please contact info@eigent.ai
 [social-x-link]: https://x.com/Eigent_AI
 [social-x-shield]: https://img.shields.io/badge/-%40Eigent_AI-white?labelColor=gray&logo=x&logoColor=white&style=plastic
 
+[reddit-url]: https://www.reddit.com/r/CamelAI/
+[reddit-image]: https://img.shields.io/reddit/subreddit-subscribers/CamelAI?style=plastic&logo=reddit&label=r%2FCAMEL&labelColor=white
+
+[wechat-url]: https://ghli.org/camel/wechat.png
+[wechat-image]: https://img.shields.io/badge/WeChat-CamelAIOrg-brightgreen?logo=wechat&logoColor=white
+
 [sponsor-link]: https://github.com/sponsors/camel-ai
-[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20CAMEL-AI-1d1d1d?logo=github&logoColor=white&style=plastic
+[sponsor-shield]: https://img.shields.io/badge/-Sponsor%20CAMEL--AI-1d1d1d?logo=github&logoColor=white&style=plastic
 
 [github-issue-link]: https://github.com/eigent-ai/eigent/issues
 
