@@ -31,12 +31,13 @@
 
 We believe in building trust and embracing all forms of open-source collaboration. Your creative contributions help drive the innovation of personalized AI tools. Explore our GitHub Issues and Projects to dive in and show us what you’ve got 🤝❤️
 
-Contribution Guideline
+[Contribution Guideline][contribution-link]
 
 ### ❤️ Sponsor
 
 Every contribution matters, and your one-time donation shines brightly in our galaxy of support. Like a shooting star, your generosity leaves a vivid mark on our journey. Thank you for believing in us—your support lights the way, one brilliant flash at a time.
 
+[Sponsor Us][sponsor-link]
 
 ---
 
@@ -57,12 +58,12 @@ Every contribution matters, and your one-time donation shines brightly in our ga
 
 
 [eigent-github]: https://github.com/eigent-ai/eigent-desktop
-
+[contribution-link]: https:/github.com/eigent-ai/eigent-desktop/blob/master/CONTRIBUTING.md
 
 [social-x-link]: https://x.com/Eigent-AI
 [social-x-shield]: https://img.shields.io/badge/-%40Eigent_AI-white?labelColor=gray&logo=x&logoColor=white&style=plastic
 
-[sponsor-link]: https://github.com/sponsors/eigent-ai
+[sponsor-link]: https://github.com/sponsors/camel-ai
 [sponsor-shield]: https://img.shields.io/badge/-Sponsor%20Eigent-1d1d1d?logo=github&logoColor=white&style=plastic
 
 [eigent-cover]:https://eigent-ai.github.io/.github/assets/eigent.png
