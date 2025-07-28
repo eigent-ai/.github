@@ -47,9 +47,9 @@ For more information please contact info@eigent.ai
 
 - **WeChat Community:** Scan the QR code below to join our WeChat community.
 
-  <div align="center">
-    ![WeChat QR Code][wechat-cover]
-  </div>
+
+![wechat](https://eigent-ai.github.io/.github/assets/wechat.jpg)
+
 
 
 <!-- LINK GROUP -->
