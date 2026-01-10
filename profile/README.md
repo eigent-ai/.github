@@ -51,7 +51,7 @@ For more information please contact info@eigent.ai
 
 - **WeChat Community:** Scan the QR code below to join our WeChat community.
 
-![wechat](https://eigent-ai.github.io/.github/assets/wechat.jpg)
+<img src="https://github.com/eigent-ai/eigent/blob/main/src/assets/wechat_qr.jpg" width="60%">
 
 
 
